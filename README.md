@@ -18,7 +18,7 @@
 
 <br>
 
-**[▶ URUCHOM APLIKACJĘ](https://TWOJ-LOGIN.github.io/pamieciomistrz/)** · [📸 Zobacz zrzuty ekranu](#-galeria) · [🚀 Jak uruchomić](#-uruchomienie)
+**[▶ URUCHOM APLIKACJĘ]([https://TWOJ-LOGIN.github.io/pamieciomistrz/](https://xeraoo.github.io/pamieciomistrz/))** · [📸 Zobacz zrzuty ekranu](#-galeria) · [🚀 Jak uruchomić](#-uruchomienie)
 
 > *„Tu pamięć ćwiczy, uwaga gra — a dobry pomysł każdy ma!”*
 
